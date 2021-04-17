@@ -1,26 +1,29 @@
 ![Signal Boost Creative Logo](https://signalboost.co.nz/wp-content/uploads/2021/04/Signal-Boost-Logo-Small.jpg)
 
-# Project Name
+# This Is Electric - Website Project
 ### Project Overview
-This is where the project overview goes. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Design and build a website for an Auckland-based electrician showcasing their services.**
+
+This Is Electric's existing website wasn’t performing well for them, and needed a full overhaul to meet their needs within their industry. I worked with them to design, build, and create all of the content on their new site. This meant getting to know their points of difference, and their services well enough to create useful and meaningful copy to accompany the design. 
 
 #### Design Components
-* Component One
-* Component Two
-* Component Three
+* Website design
+* Art direction
+* Copywriting and content creation
 
 #### Technical Components
-* Component One
-* Component Two
-* Component Three
+* WordPress build
+* Responsive design
+* Performance optimised
 
 #### Preview Images
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
+![This Is Electric Website](https://signalboost.co.nz/wp-content/uploads/2020/04/home.jpg)
+![This Is Electric Website Home Page](https://signalboost.co.nz/wp-content/uploads/2020/04/home1.jpg)
+![This Is Electric Services Page](https://signalboost.co.nz/wp-content/uploads/2020/04/services.jpg)
+![This Is Electric Blog](https://signalboost.co.nz/wp-content/uploads/2020/04/blog.jpg)
 
 #### More Information
-For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz)
+For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz/portfolio/website-design-and-build-this-is-electric/)
 
 #### Contact Me
 If you would like to discuss this project, or if you have another project you'd like to work with me on, please feel free to [contact me.](https://signalboost.co.nz/contact/) 
